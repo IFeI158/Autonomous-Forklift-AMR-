@@ -1,0 +1,17 @@
+# ROS2 빌드 산출물
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 모델 (용량 큼 — 별도 관리 권장)
+*.pt
+
+# 환경
+.env
+*.log
